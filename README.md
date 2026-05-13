@@ -8,9 +8,7 @@
 ## 🔭 Projects:
   Few of my projects are:-
 
-- **FitnessX** *(pinned & favorite)* – A fitness tracking and recommendation platform  
-- **PayNext** – WhatsApp-integrated support bot built during internship at *Eponic*  
-  
+- **FitnessX** *(pinned & favorite)* – A fitness tracking and recommendation platform  for working professionals
 ---
 
 ## 🛠️ Tech Stack

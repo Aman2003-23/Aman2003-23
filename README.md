@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Aman Agarwal  
 
-🎓 Final-year B.Tech Computer Science student at **Institute of Engineering and Management, Kolkata**  
 💻 Backend-focused **Software Developer** building scalable Java applications and microservice systems  
 🤖 Exploring **Agentic AI** and **RAG pipelines** for intelligent, research-driven systems  
 

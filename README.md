@@ -8,7 +8,11 @@
 ## 🔭 Projects:
   Few of my projects are:-
 
-- **FitnessX** *(pinned & favorite)* – A fitness tracking and recommendation platform  for working professionals
+- **FitnessX** *(pinned & favorite)* – An AI-powered fitness assistant built for busy professionals. Combines backend engineering with AI to automate workout planning and deliver real-time, data-driven health insights — no manual scheduling required.
+
+- **UPI Without Internet** *(pinned and favourite)* -A Spring Boot backend demonstrating offline UPI payments over a Bluetooth-style mesh network. Payments are encrypted end-to-end (RSA-OAEP + AES-GCM), hop device-to-device through untrusted intermediaries, and settle exactly once when connectivity is restored — idempotency guaranteed even under concurrent delivery.
+
+- Three hard problems tackled: tamper-proof routing through untrusted nodes, atomic deduplication across simultaneous bridge uploads, and replay-attack prevention via nonce + timestamp inside the encrypted payload.
 ---
 
 ## 🛠️ Tech Stack
@@ -23,6 +27,7 @@
 - **Perplexity, NoteBookLM** → for research and literature review  
 - **Claude** → for reasoning and AI-assisted development  
 - **Cursor** → for AI-powered coding and debugging
+- **Copilot** → for in browser search 
 ---
 
 ## 📫 How to Reach Me
